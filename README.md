@@ -9,3 +9,4 @@
 7. Activation Functions
 8. Feed Forward Network
 9. Convolutional Neural Networks
+10. Transfer Learning
